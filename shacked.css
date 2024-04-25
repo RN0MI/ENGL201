@@ -20,11 +20,11 @@
     }
 
     .hacked-message {
-        font-size: 100px;
+        font-size: 80px;
         margin-bottom: 20px;
     }
 
     .warning {
-        font-size: 85px;
+        font-size: 60px;
         color: #ff0000;
     }
