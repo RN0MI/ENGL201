@@ -21,11 +21,11 @@
     }
 
     .secure-message {
-        font-size: 100px;
+        font-size: 80px;
         margin-bottom: 20px;
         color: #007bff; /* Blue color for security */
     }
 
     .note {
-        font-size: 85px;
+        font-size: 65px;
         color: #666;
