@@ -15,17 +15,17 @@
     }
 
     .phone-icon {
-        font-size: 100px;
+        font-size: 200px;
         margin-bottom: 30px;
         color: #007bff; /* Blue color for security */
     }
 
     .secure-message {
-        font-size: 70px;
+        font-size: 100px;
         margin-bottom: 20px;
         color: #007bff; /* Blue color for security */
     }
 
     .note {
-        font-size: 55px;
+        font-size: 85px;
         color: #666;
